@@ -70,8 +70,20 @@ main {
 
 .first {
     border-bottom: 1px dotted blue;
-}
+
 
 .last {
     border-bottom: none;
+}
+
+
+.blog-post {
+    border: 1px solid [insert a hexadecimal color code];
+    border-radius: 5px;
+    margin: 2rem 0;
+    padding: 2ewm;
+}
+
+.byline {
+    color: [insert a hexadecimal color code];
 }
